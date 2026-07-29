@@ -1,1 +1,1 @@
-# open_cv_bootcamp
+# OpenCV bootcamp
